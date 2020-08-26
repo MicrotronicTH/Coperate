@@ -13,3 +13,36 @@ Innovation Developer Team
 * software, application เป็น free source code หรือ open opensource สามารถปรับแต่งเองได้ง่าย
 * มีความปลอดภัยสูง
 * เป็นมิตรกับผู้ใช้งาน และมีขนาดเล็ก
+
+### อุปกรณ์ device หาใช้งานง่าย ราคาไม่แพง ง่ายกับการพัฒนามีอะไรบ้าง
+* Arduino (Arduino.cc)
+* NodeMCU ESP8266 (nodemcu.com)
+* Raspberry Pi (raspberrypi.org)
+
+### software, application programming ที่คิดว่าต้องใช้มีอะไรบ้าง
+* Programming Editor
+  * Arduino IDE
+  * sublime text 3
+  * Python
+  * อาจมีเพิ่มอีก
+
+* Buid Application
+  * thunkable
+  * Android Studio
+  * อาจมีเพิ่มอีก
+
+* OS
+  * Raspbian
+  * Home Assistant
+  * MQTT
+  * Linux
+  * Windows
+
+* Ohter
+  * Docker
+  * phpMyAdmin
+  * IFTTT
+  * Node-Red
+  * MySQL
+  * อาจมีเพิ่มอีก
+  * GitHub
