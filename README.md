@@ -9,31 +9,6 @@ Application Development
 
 Website Developmeni
 
-Customer Segment
-
-Chanels
-
-Customer Relationship
-
-Revenue Streams
-
-Value Propositions
-
-Cost Structure
-
-Key Resource
-
-Key Activities
-
-Key Partners
-
-
-
-
-
-
-
-
 ### Innovation Developer Team
 **Contact**
 
