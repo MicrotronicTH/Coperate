@@ -29,13 +29,21 @@ Website Developmeni
 
 *Email : GridsDev.Arduino@gmail.com*
 
-*GitHub : [GridsMicro](#)*
+*GitHub : [GridsArduino](https://github.com/GridsArduino)*
+
+*Email : GridsDev.NodeMCU@gmail.com*
+
+*GitHub : [GridsNodeMCU](https://github.com/GridsNodeMCU)*
+
+*Email : GridsDev.RaspPi@gmail.com*
+
+*GitHub : [GridsRaspPi](https://github.com/GridsRaspPi)*
 
 #### Website Developers :
 
-*Email : Grids@microtronic.biz*
+*Email : GridsDev.WebDev@gmail.com*
 
-*GitHub : [GridsMicro](#)*
+*GitHub : [GridsWebDev](https://github.com/GridsWebDev)*
 
 #### Application Developers : 
 
