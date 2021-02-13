@@ -43,9 +43,9 @@
 
 #### + IOS
 
--- *Email : Grids.Developer@gmail.com*
++ *Email : Grids.Developer@gmail.com*
 
--- *GitHub : [GridsDev](https://github.com/GridsDev)*
++ *GitHub : [GridsDev](https://github.com/GridsDev)*
 
 #### -- Android
 
