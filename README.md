@@ -49,4 +49,4 @@ Website Developmeni
 
 *Email : GridsDev.Andr0id@gmail.com*
 
-*GitHub : [GridsMicro](#)*
+*GitHub : [GridsAndroid](https://github.com/GridsAndroid)*
