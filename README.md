@@ -25,6 +25,12 @@ Website Developmeni
 
 *GitHub : [GridsMicro](https://github.com/GridsMicro)*
 
+#### AI Developers :
+
+*Email : GridsDev.Ai@gmail.com*
+
+*GitHub : [GridsAi](https://github.com/GridsAi)*
+
 #### Hardware Developers : 
 
 *Email : GridsDev.Arduino@gmail.com*
