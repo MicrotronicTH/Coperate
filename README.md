@@ -1,10 +1,10 @@
-## [Microtronic.biz](http://microtronic.biz/)
+# [Microtronic.biz](http://microtronic.biz/)
 discription
-### Innovation Developer Team
+## Innovation Developer Team
 
 **Contact**
 
-#### Developer Management :
+### Developer Management :
 
 *Email : Grids@microtronic.biz*
 
@@ -16,13 +16,13 @@ discription
 
 *GitHub : [GridsMicro](https://github.com/GridsMicro)*
 
-#### AI Developers :
+### AI Developers :
 
 *Email : GridsDev.Ai@gmail.com*
 
 *GitHub : [GridsAi](https://github.com/GridsAi)*
 
-#### Hardware Developers : 
+### Hardware Developers : 
 
 *Email : GridsDev.Arduino@gmail.com*
 
@@ -36,13 +36,13 @@ discription
 
 *GitHub : [GridsRaspPi](https://github.com/GridsRaspPi)*
 
-#### Website Developers :
+### Website Developers :
 
 *Email : GridsDev.WebDev@gmail.com*
 
 *GitHub : [GridsWebDev](https://github.com/GridsWebDev)*
 
-#### Application Developers : 
+### Application Developers : 
 
 #### IOS
 
