@@ -1,8 +1,5 @@
 # [Microtronic.biz](http://microtronic.biz/)
-discription
 ## Innovation Developer Team
-
-**Contact**
 
 ### Developer Management :
 
