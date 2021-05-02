@@ -41,6 +41,10 @@ microtronic
 
   + *GitHub : [GridsWebDev](https://github.com/GridsWebDev)*
 
+  + *Email : gridsdev.web@gmail.com*
+
+  + *GitHub : [GridsDevWeb](https://github.com/GridsDevWeb)*
+
 ### Application Developers : 
 
 #### IOS
@@ -54,3 +58,15 @@ microtronic
   + *Email : GridsDev.Andr0id@gmail.com*
 
   + *GitHub : [GridsAndroid](https://github.com/GridsAndroid)*
+
+#### Blockchain
+
+  + *Email : Grids.Bitcoin@gmail.com*
+
+  + *GitHub : [GridsBlockchain](https://github.com/GridsBlockchain)*
+
+#### Data Center
+
+  + *Email : K.net.game01@gmail.com*
+
+  + *GitHub : [EgaKlang](https://github.com/EgaKlang)*
