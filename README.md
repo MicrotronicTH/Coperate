@@ -33,7 +33,7 @@ microtronic
 
   + *Email : GridsDev.RaspPi@gmail.com*
 
-  + *GitHub : [GridsRaspPi](https://github.com/GridsRaspPi)*
+  + *GitHub : [GridsRasPi](https://github.com/GridsRaspPi)*
 
 ### Website Developers :
 
